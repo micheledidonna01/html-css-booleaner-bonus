@@ -1,0 +1,101 @@
+body{
+    margin:0 auto;
+}
+/*********************
+INTESTAZIONE PAGINA
+*********************/
+header{
+    height:90px;
+    margin:0;
+    background-image: url('/img/pattern.png');
+    background-color: #4E9FFE;
+    background-size: 360px 190px;
+}
+
+#logo{
+    width:200px;
+    height:40px;
+    padding-top:45px;
+}
+
+
+/*********************
+CONTENUTO DELLA PAGINA
+*********************/
+main{
+    padding:2px;
+}
+
+/*********************
+ARTICOLO DI THE BOOLEANER
+*********************/
+#title-article{
+    font-size: 26px;
+    
+}
+
+.who-write{
+    color: gray;
+    font-size:15px;
+    font-weight:bold;
+}
+
+#blue-words{
+    color:#26ABE6;
+}
+
+#date{
+    font-weight:100;
+    font-size:13px;
+}
+
+.desc{
+    font-family: Arial;
+    font-size:12px
+}
+
+.underline-color{
+    background-color:yellow;
+}
+
+
+/*********************
+TABELLA DI DATI
+*********************/
+
+table{
+    font-size:14px;
+}
+
+thead{
+    color:white;
+    background-color: rgb(43, 98, 158);
+}
+
+.row-color{
+    background-color:#26ABE6;
+}
+
+
+/*********************
+ALTRI ARTICOLI
+*********************/
+footer{
+    padding:2px;
+}
+h4{
+    color:gray;
+    
+}
+.container{
+    width: 200px;
+    height:200px;
+}
+
+.num1{
+    background-image: url('/img/monitor.jpg');
+}
+
+.num2{
+    background-image: url('/img/graph.jpg');
+}
