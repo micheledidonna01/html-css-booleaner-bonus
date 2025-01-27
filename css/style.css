@@ -23,7 +23,7 @@ header{
 CONTENUTO DELLA PAGINA
 *********************/
 main{
-    padding:2px;
+    margin:0 100px;
 }
 
 /*********************
@@ -81,7 +81,7 @@ thead{
 ALTRI ARTICOLI
 *********************/
 footer{
-    padding:2px;
+    margin: 0 100px;
 }
 h4{
     color:gray;
